@@ -5,10 +5,10 @@ function About() {
     <div>
       <div className="banner-image-about">
         <div className="about-nike">
-          <h2 className="about-nike-text">OUR MISSION</h2>
+          {/* <h2 className="about-nike-text">OUR MISSION</h2>
           <p>
             "Our mission is to act as a catalyst for innovation and progress by forging enduring partnerships between University and industry leaders."
-          </p>
+          </p> */}
         </div>
       </div>
       <div className="about-nike-part">

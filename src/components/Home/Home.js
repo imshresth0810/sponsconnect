@@ -5,7 +5,9 @@ import Carousel1 from "./Carousel1";
 function Home() {
   return (
     <div>
-      <div className="banner-image"></div>
+      <div className="banner-image">
+        {/* <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eventinterface.com%2Fblog%2F5-steps-to-get-sponsorship-for-your-events%2F&psig=AOvVaw0c72W_pTaKG0UbhcTJbqBb&ust=1694428885046000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiMidTtn4EDFQAAAAAdAAAAABAD" alt="hii"></img> */}
+      </div>
       <div>
         <span className="tagline">Bridging Brilliance: Uniting IIT KGP and Industry for Boundless Innovation</span>
         <div className="tagline-para">
